@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/kirill/CLionProjects/MIPT-cpp-projects Select CMakeLists.txt
